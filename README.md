@@ -1,4 +1,6 @@
 # Nextcloud Desktop Client
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flincoilntgl%2Fdesktop.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flincoilntgl%2Fdesktop?ref=badge_shield)
+
 
 The :computer: Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server
 with your computer.
@@ -101,3 +103,6 @@ https://github.com/nextcloud/desktop.
     WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
     or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License
     for more details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flincoilntgl%2Fdesktop.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flincoilntgl%2Fdesktop?ref=badge_large)
